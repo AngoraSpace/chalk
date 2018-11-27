@@ -3,7 +3,7 @@
 blog_theme: dark # Or use dark
 name: Chalk
 paginate: 4
-url: https://bayuangora.github.io
+url: 
 baseurl: /chalk
 
 # Optional settings
