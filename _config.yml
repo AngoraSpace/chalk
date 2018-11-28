@@ -4,7 +4,7 @@ blog_theme: dark # Or use dark
 name: Chalk
 paginate: 4
 url: 
-baseurl: '/chalk'
+baseurl: /chalk
 
 # Optional settings
 
