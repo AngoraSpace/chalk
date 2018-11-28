@@ -3,7 +3,7 @@
 blog_theme: dark # Or use dark
 name: Chalk
 paginate: 4
-url: /
+url: https://angoraspace.github.io
 baseurl: /chalk
 
 # Optional settings
